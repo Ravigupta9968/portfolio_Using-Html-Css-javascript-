@@ -8,4 +8,4 @@ A modern and responsive **portfolio website** built using **HTML, CSS, and JavaS
 - Contact form integration  
 
 ## 🔗 Live Demo  
-[Click here to view the live demo(https://portfoliorg77.netlify.app/_)]
+[Click here to view the live demo - https://portfoliorg77.netlify.app/ ]
